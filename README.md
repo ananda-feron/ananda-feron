@@ -1,16 +1,14 @@
-## Hi there 👋
+## ✧˖°࿐ <em>Ananda Feron (she/her)</em> ✧˖°࿐
+![new-game-ahagon-umiko-programming](https://github.com/user-attachments/assets/6c0a4664-ae7b-4ab0-b4ff-614a4edb856d)
 
-<!--
-**ananda-feron/ananda-feron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🧑🏽‍💻 Strong interest in Game Dev and Cybersecurity<br/>
+• 🌱 Currently learning about LLMs and Neural Networks<br/>
+• 🏫 Computer Science major (B.S.) @ [SUNY New Paltz](https://www.newpaltz.edu/)<br/>
+• 📍 Queens, NY born & raised<br/>
 
-Here are some ideas to get you started:
+<h3>What are my hobbies?</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 👠 I'm a big time fashion-killa<br/>
+• 🎨 I enjoy recreational writing and drawing<br/>
+• 🌇🌆 I'm the sunset and sunrise's biggest fan<br/>
+• 🗺️ I like to explore and try new things<br/>
