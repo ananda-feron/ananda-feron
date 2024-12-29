@@ -10,5 +10,5 @@
 
 • 👠 I'm a big time fashion-killa<br/>
 • 🎨 I enjoy recreational writing and drawing<br/>
-• 🏙️🌇 I'm the sunrise and sunset's biggest fan<br/>
-• 🗺️ I like to explore and try new things<br/>
+• 🌇 I'm the sunrise and sunset's biggest fan<br/>
+• 🚀 I like to explore and try new things<br/>
