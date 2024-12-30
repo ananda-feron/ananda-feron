@@ -9,6 +9,6 @@
 <h3>A little about me:</h3>
 
 • 👠 I'm a big time fashion-killa<br/>
-• 🎨 I enjoy recreational drawing<br/>
+• ✏️ I enjoy recreational drawing<br/>
 • 🌇 I'm the sunrise and sunset's biggest fan<br/>
 • 🧭 I like to explore and try new things<br/>
