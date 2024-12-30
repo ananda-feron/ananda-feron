@@ -3,7 +3,7 @@
 
 • 🧑🏽‍💻 Strong interest in AI/ML and Cybersecurity<br/>
 • 🌱 Currently learning about LLMs and Neural Networks<br/>
-• 🏫 Computer Science major (B.S.) @ [SUNY New Paltz](https://www.newpaltz.edu/)<br/>
+• 🎒 Computer Science major (B.S.) @ [SUNY New Paltz](https://www.newpaltz.edu/)<br/>
 • 📍 Queens, NY born & raised<br/>
 
 <h3>A little about me:</h3>
