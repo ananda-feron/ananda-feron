@@ -1,10 +1,4 @@
 ## ✧˖°࿐ <em>Ananda Feron (she/her)</em> ✧˖°࿐
-![new-game-ahagon-umiko-programming](https://github.com/user-attachments/assets/6c0a4664-ae7b-4ab0-b4ff-614a4edb856d)
-
-• Strong interest in Big Data and Finance<br/>
-• Currently learning about LLMs and Neural Networks<br/>
-• B.S. in Finance, Minor in Computer Science @ SUNY New Paltz<br/>
-• Located in Queens, NY<br/>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ananda-feron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -41,10 +35,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananda-feron/ananda-feron/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananda-feron/ananda-feron/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ananda-feron/ananda-feron/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+***About Me***<br/>
+• Strong interest in Big Data and Finance<br/>
+• Currently learning about ML and Stock Market Analysis<br/>
+• B.S. in Finance, Minor in Computer Science @ SUNY New Paltz<br/>
+• Located in Queens, NY<br/>
