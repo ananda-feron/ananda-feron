@@ -1,11 +1,11 @@
-## <p align="center">✧˖°࿐ <em>Ananda Feron</em> ✧˖°࿐
+## <p align="center">˖°࿐ <em>Ananda Feron</em> ˖°࿐
 
-<img width="480" height="360" alt="Image" src="https://github.com/user-attachments/assets/566f2cda-dd16-4e98-b4a8-dd59d964559e" />
+<p align="center"><img width="590" height="262" alt="Image" src="https://github.com/user-attachments/assets/c2d47d38-a8cf-40e4-b28f-ff8f2a355c4b" />
 
 ###
 
-***About Me***<br/>
-• Strong interest in Investment Portfolio Risk Management<br/>
-• Currently learning about ML and Stock Market Analysis<br/>
-• B.S. in Finance, Minor in Computer Science @ SUNY New Paltz<br/>
-• Located in Queens, NY<br/>
+<p align="center"><em>***About Me***</em><br/>
+<p align="center">• I aspire to bridge the gap between finance and technology<br/>
+<p align="center">• Currently learning about ML and Stock Market Analysis<br/>
+<p align="center">• B.S. in Finance, Minor in Computer Science @ SUNY New Paltz<br/>
+<p align="center">• Located in Queens, NY<br/>
