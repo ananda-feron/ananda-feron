@@ -5,7 +5,8 @@
 ###
 
 <p align="center"><em>***About Me***</em><br/>
-<p align="center">• I aspire to bridge the gap between finance and technology<br/>
+<p align="center">• I enjoy bridging the gap between finance and technology<br/>
+<p align="center">• My hobbies include playing the drums and guitar<br/>
 <p align="center">• Currently learning about ML and Stock Market Analysis<br/>
 <p align="center">• B.S. in Finance, Minor in Computer Science @ SUNY New Paltz<br/>
 <p align="center">• Located in Queens, NY<br/>
