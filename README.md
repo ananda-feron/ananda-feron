@@ -14,4 +14,4 @@
 ```
 
 > [!TIP]
-> I am always open to collaborating on projects. If you want to work on something cool, HMU!
+> Only the coolest projects ever made are created when I'm a collaborator.
